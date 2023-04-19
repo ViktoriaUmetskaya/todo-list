@@ -67,7 +67,7 @@ function TODO(){
             </div>
             <button className='btnn' onClick={clearTodos}>Clear All</button>
             <div className='home'>
-              <Link className='gohome' to='/'>Main</Link>
+              <Link className='gohome' to='/todo-list'>Main</Link>
             </div>
             </ul>
         </div>
